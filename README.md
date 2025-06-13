@@ -25,10 +25,10 @@ Este projeto detalha uma auditoria de segurança cibernética completa realizada
 *   Documentação Técnica
 
 **Principais Documentos:**
-*   [BotiumToys_Escopo,metas,e riscos.pdf](auditoria-botium-toys/BotiumToys_Escopo,metas,e riscos.pdf): Documento inicial com o escopo, metas e avaliação de riscos da empresa.
-*   [ListadeVerificaçãodecontroleseconformidade.pdf](auditoria-botium-toys/Lista de Verificação de controles e conformidade.pdf): Lista de verificação original para preenchimento.
-*   [CategoriasdeControle.pdf](auditoria-botium-toys/Categorias de Controle.pdf): Referência para as categorias e tipos de controle.
-*   [audit_report_botium_toys_updated.pdf](auditoria-botium-toys/Reporte da Auditoria Botium Toys.pdf): **Relatório Final da Auditoria**, contendo a lista de verificação preenchida e as recomendações detalhadas (e resumidas).
+*   [BotiumToys_Escopo,metas, e riscos.pdf](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/526e277ac6daed02381319eda71fe637dbd122c9/auditoria-botium-toys/Botium%20Toys_%20Escopo%2C%20metas%2C%20e%20riscos.pdf): Documento inicial com o escopo, metas e avaliação de riscos da empresa.
+*   [Lista de Verificação de controles e conformidade.pdf](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/526e277ac6daed02381319eda71fe637dbd122c9/auditoria-botium-toys/Lista%20de%20Verifica%C3%A7%C3%A3o%20de%20controles%20e%20conformidade.pdf): Lista de verificação original para preenchimento.
+*   [Categorias de Controle.pdf](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/526e277ac6daed02381319eda71fe637dbd122c9/auditoria-botium-toys/Categorias%20de%20Controle.pdf): Referência para as categorias e tipos de controle.
+*   [Reporte da Auditoria Botium Toys.pdf](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/8754850dc74a1ba425c4879ae7940de563b9521c/auditoria-botium-toys/Reporte%20da%20Auditoria%20Botium%20Toys.pdf): **Relatório Final da Auditoria**, contendo a lista de verificação preenchida e as recomendações detalhadas (e resumidas).
 
 **Resultados e Recomendações Chave:**
 *   Identificação de lacunas críticas em áreas como gerenciamento de acesso (menor privilégio, separação de funções), recuperação de desastres, backups, detecção de intrusão e criptografia de dados sensíveis.
