@@ -25,10 +25,10 @@ Este projeto detalha uma auditoria de segurança cibernética completa realizada
 *   Documentação Técnica
 
 **Principais Documentos:**
-*   [BotiumToys_Escopo,metas,eriscos.pdf](BotiumToys_Escopo,metas,eriscos.pdf): Documento inicial com o escopo, metas e avaliação de riscos da empresa.
-*   [ListadeVerificaçãodecontroleseconformidade.pdf](ListadeVerificaçãodecontroleseconformidade.pdf): Lista de verificação original para preenchimento.
-*   [CategoriasdeControle.pdf](CategoriasdeControle.pdf): Referência para as categorias e tipos de controle.
-*   [audit_report_botium_toys_updated.pdf](audit_report_botium_toys_updated.pdf): **Relatório Final da Auditoria**, contendo a lista de verificação preenchida e as recomendações detalhadas (e resumidas).
+*   [BotiumToys_Escopo,metas,eriscos.pdf](auditoria-botium-toys/BotiumToys_Escopo,metas,eriscos.pdf): Documento inicial com o escopo, metas e avaliação de riscos da empresa.
+*   [ListadeVerificaçãodecontroleseconformidade.pdf](auditoria-botium-toys/ListadeVerificaçãodecontroleseconformidade.pdf): Lista de verificação original para preenchimento.
+*   [CategoriasdeControle.pdf](auditoria-botium-toys/CategoriasdeControle.pdf): Referência para as categorias e tipos de controle.
+*   [audit_report_botium_toys_updated.pdf](auditoria-botium-toys/audit_report_botium_toys_updated.pdf): **Relatório Final da Auditoria**, contendo a lista de verificação preenchida e as recomendações detalhadas (e resumidas).
 
 **Resultados e Recomendações Chave:**
 *   Identificação de lacunas críticas em áreas como gerenciamento de acesso (menor privilégio, separação de funções), recuperação de desastres, backups, detecção de intrusão e criptografia de dados sensíveis.
@@ -44,5 +44,5 @@ Esta seção será atualizada com novos projetos e atividades à medida que eu a
 
 ## 📞 Contato
 
-*   **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil )
-*   **Email:** [seu.email@example.com](mailto:seu.email@example.com)
+*   **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/samuel-jahnke-silva)
+*   **Email:** [jahnkedasilva@gmail.com](jahnkedasilva@gmail.com)
