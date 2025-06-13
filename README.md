@@ -25,10 +25,10 @@ Este projeto detalha uma auditoria de segurança cibernética completa realizada
 *   Documentação Técnica
 
 **Principais Documentos:**
-*   [BotiumToys_Escopo,metas,eriscos.pdf](auditoria-botium-toys/BotiumToys_Escopo,metas,eriscos.pdf): Documento inicial com o escopo, metas e avaliação de riscos da empresa.
-*   [ListadeVerificaçãodecontroleseconformidade.pdf](auditoria-botium-toys/ListadeVerificaçãodecontroleseconformidade.pdf): Lista de verificação original para preenchimento.
-*   [CategoriasdeControle.pdf](auditoria-botium-toys/CategoriasdeControle.pdf): Referência para as categorias e tipos de controle.
-*   [audit_report_botium_toys_updated.pdf](auditoria-botium-toys/audit_report_botium_toys_updated.pdf): **Relatório Final da Auditoria**, contendo a lista de verificação preenchida e as recomendações detalhadas (e resumidas).
+*   [BotiumToys_Escopo,metas,e riscos.pdf](auditoria-botium-toys/BotiumToys_Escopo,metas,e riscos.pdf): Documento inicial com o escopo, metas e avaliação de riscos da empresa.
+*   [ListadeVerificaçãodecontroleseconformidade.pdf](auditoria-botium-toys/Lista de Verificação de controles e conformidade.pdf): Lista de verificação original para preenchimento.
+*   [CategoriasdeControle.pdf](auditoria-botium-toys/Categorias de Controle.pdf): Referência para as categorias e tipos de controle.
+*   [audit_report_botium_toys_updated.pdf](auditoria-botium-toys/Reporte da Auditoria Botium Toys.pdf): **Relatório Final da Auditoria**, contendo a lista de verificação preenchida e as recomendações detalhadas (e resumidas).
 
 **Resultados e Recomendações Chave:**
 *   Identificação de lacunas críticas em áreas como gerenciamento de acesso (menor privilégio, separação de funções), recuperação de desastres, backups, detecção de intrusão e criptografia de dados sensíveis.
