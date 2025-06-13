@@ -44,5 +44,5 @@ Esta seção será atualizada com novos projetos e atividades à medida que eu a
 
 ## 📞 Contato
 
-*   **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/samuel-jahnke-silva)
+*   **LinkedIn:** [Perfil do LinkedIn](https://www.linkedin.com/in/samuel-jahnke-silva)
 *   **Email:** [jahnkedasilva@gmail.com](jahnkedasilva@gmail.com)
