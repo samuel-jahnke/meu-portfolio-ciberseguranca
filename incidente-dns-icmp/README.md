@@ -17,8 +17,8 @@ Este projeto detalha a investigação de um incidente de rede focado na análise
 *   Documentação Técnica e Elaboração de Relatórios
 
 **Principais Documentos:**
-*   [Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf](../ciberseguranca-dns-icmp/Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf)
-*   [Relatóriodeincidentederede_DNS_ICMP_yummyrecipesforme.com.pdf](../../ciberseguranca-dns-icmp/Relatóriodeincidentederede_DNS_ICMP_yummyrecipesforme.com.pdf)
+*   [Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf](ciberseguranca-dns-icmp/Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf)
+*   [Relatóriodeincidentederede_DNS_ICMP_yummyrecipesforme.com.pdf](ciberseguranca-dns-icmp/Relatóriodeincidentederede_DNS_ICMP_yummyrecipesforme.com.pdf)
 
 **Resultados e Descobertas Chave:**
 *   O problema principal foi a inacessibilidade da porta UDP 53 (DNS) no servidor `203.0.113.2`, que impedia a resolução do nome de domínio `yummyrecipesforme.com`.
