@@ -18,7 +18,7 @@ Este projeto apresenta um estudo de caso detalhado sobre a resposta a uma viola�
 *   Documentação Técnica e Elaboração de Relatórios
 
 **Principais Documentos:**
-*   [EstudodeCaso.pdf](docs/EstudodeCaso.md): Detalhes do cenário inicial e do incidente de violação de dados.
+*   [EstudodeCaso.pdf](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/violacao-dados-hardening/docs/Estudo%20de%20Caso.pdf): Detalhes do cenário inicial e do incidente de violação de dados.
 *   [Ferramentasdehardeningderede-Início.xlsx](docs/Ferramentasdehardeningderede-Início.csv): Lista de ferramentas e métodos de hardening de rede com descrições e usos comuns.
 *   [Relatóriodeavaliaçãoderiscodesegurança.pdf](docs/Relatóriodeavaliaçãoderiscodesegurança.md): Relatório detalhado de avaliação de risco e proposta de hardening de rede.
 
