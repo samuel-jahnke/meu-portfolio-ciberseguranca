@@ -17,7 +17,7 @@ Este projeto detalha uma auditoria de segurança cibernética completa realizada
 *   Documentação Técnica
 
 **Principais Documentos:**
-*   [BotiumToys_Escopo,metas, e riscos.pdf](docs/BotiumToys_Escopo_metas_e_riscos.pdf)  <-- Nome do arquivo no link ajustado
+*   [BotiumToys_Escopo,metas, e riscos.pdf](docs/BotiumToys_Escopo_metas_e_riscos.pdf)
 *   [Lista de Verificação de controles e conformidade.pdf](docs/Lista%20de%20Verifica%C3%A7%C3%A3o%20de%20controles%20e%20conformidade.pdf)
 *   [Categorias de Controle.pdf](docs/Categorias%20de%20Controle.pdf)
 *   [Reporte da Auditoria Botium Toys.pdf](docs/Reporte%20da%20Auditoria%20Botium%20Toys.pdf)
