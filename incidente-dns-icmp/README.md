@@ -17,7 +17,7 @@ Este projeto detalha a investigação de um incidente de rede focado na análise
 *   Documentação Técnica e Elaboração de Relatórios
 
 **Principais Documentos:**
-*   [Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf](../../ciberseguranca-dns-icmp/Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf)
+*   [Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf](../ciberseguranca-dns-icmp/Cenario_Incidente_Ciberseguranca_DNS_ICMP_yummyrecipesforme.pdf)
 *   [Relatóriodeincidentederede_DNS_ICMP_yummyrecipesforme.com.pdf](../../ciberseguranca-dns-icmp/Relatóriodeincidentederede_DNS_ICMP_yummyrecipesforme.com.pdf)
 
 **Resultados e Descobertas Chave:**
