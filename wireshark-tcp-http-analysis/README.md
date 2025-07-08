@@ -19,7 +19,7 @@ Este projeto detalha a análise de um incidente de segurança cibernética focad
 *   Documentação Técnica e Elaboração de Relatórios de Incidente
 
 **Principais Documentos:**
-*   [WiresharkTCP_HTTPlog-TCPlog.csv](docs/WiresharkTCP_HTTPlog-TCPlog.csv): Log de tráfego TCP/HTTP capturado.
+*   [WiresharkTCP_HTTPlog-TCPlog.csv](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/wireshark-tcp-http-analysis/docs/Wireshark%20TCP_HTTP%20log.xlsx): Log de tráfego TCP/HTTP capturado.
 *   [Relatorio_DoS_SYN_Flood.md](docs/Relatorio_DoS_SYN_Flood.md): Relatório detalhado do incidente, incluindo análise e causas prováveis.
 
 **Resultados e Descobertas Chave:**
