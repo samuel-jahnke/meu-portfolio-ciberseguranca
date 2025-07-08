@@ -20,7 +20,8 @@ Este projeto detalha a análise de um incidente de segurança cibernética focad
 
 **Principais Documentos:**
 *   [WiresharkTCP_HTTPlog-TCPlog.csv](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/wireshark-tcp-http-analysis/docs/Wireshark%20TCP_HTTP%20log.xlsx): Log de tráfego TCP/HTTP capturado.
-*   [Relatorio_DoS_SYN_Flood.md](docs/Relatorio_DoS_SYN_Flood.md): Relatório detalhado do incidente, incluindo análise e causas prováveis.
+*   [Relatorio_DoS_SYN_Flood.docx](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/wireshark-tcp-http-analysis/docs/Relat%C3%B3rio%20de%20Incidente%20de%20rede_%20DoS_SYN%20Flood.docx): Relatório detalhado do incidente, incluindo análise e causas prováveis.
+*   [Como ler o log TCP/HTTP do Wireshark.docx](): Guia de analise do log do incidente
 
 **Resultados e Descobertas Chave:**
 *   O incidente foi identificado como um ataque de Negação de Serviço (DoS) por Inundação SYN.
