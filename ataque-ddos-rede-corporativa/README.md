@@ -18,9 +18,9 @@ Este projeto detalha a análise de um incidente de segurança cibernética envol
 *   Documentação Técnica e Elaboração de Relatórios
 
 **Principais Documentos:**
-*   [Cenário-AtaqueDDoSàRedeCorporativadeMultimídia.pdf](docs/Cenário-AtaqueDDoSàRedeCorporativadeMultimídia.md): Descrição detalhada do cenário do incidente e desafios.
-*   [Análisederelatóriodeincidente.pdf](docs/Análisederelatóriodeincidente.md): Análise aprofundada do relatório de incidente.
-*   [AplicaçãodoNISTCSF.pdf](docs/AplicaçãodoNISTCSF.md): Aplicação do Framework de Cibersegurança do NIST para avaliação e melhoria.
+*   [Cenário-Ataque DDoS à Rede Corporativa de Multimídia.pdf](docs/Cenário-AtaqueDDoSàRedeCorporativadeMultimídia.md): Descrição detalhada do cenário do incidente e desafios.
+*   [Análise de relatório de incidente.pdf](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/ataque-ddos-rede-corporativa/docs/An%C3%A1lise%20de%20relat%C3%B3rio%20de%20incidente.pdf): Análise aprofundada do relatório de incidente.
+*   [Aplicação do NISTCSF.pdf](docs/AplicaçãodoNISTCSF.md): Aplicação do Framework de Cibersegurança do NIST para avaliação e melhoria.
 
 **Resultados e Descobertas Chave:**
 *   **Vetor de Ataque:** ICMP flood, explorando uma configuração inadequada em um firewall.
