@@ -8,6 +8,7 @@ Bem-vindo(a) ao meu portfólio de projetos e atividades em Cibersegurança. Aqui
 
 *   [Auditoria de Segurança e Conformidade para Botium Toys](auditoria-botium-toys/README.md)
 *   [Incidente de Segurança Cibernética: Análise de Tráfego DNS e ICMP](incidente-dns-icmp/README.md)
+*   [Análise de Tráfego de Rede com Wireshark: Atque DoS SYN Flood]
 
 ---
 
