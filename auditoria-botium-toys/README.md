@@ -17,10 +17,10 @@ Este projeto detalha uma auditoria de segurança cibernética completa realizada
 *   Documentação Técnica
 
 **Principais Documentos:**
-*   [BotiumToys_Escopo,metas, e riscos.pdf](../../auditoria-botium-toys/Botium%20Toys_%20Escopo%2C%20metas%2C%20e%20riscos.pdf)
-*   [Lista de Verificação de controles e conformidade.pdf](../../auditoria-botium-toys/Lista%20de%20Verifica%C3%A7%C3%A3o%20de%20controles%20e%20conformidade.pdf)
-*   [Categorias de Controle.pdf](../../auditoria-botium-toys/Categorias%20de%20Controle.pdf)
-*   [Reporte da Auditoria Botium Toys.pdf](../../auditoria-botium-toys/Reporte%20da%20Auditoria%20Botium%20Toys.pdf)
+*   [BotiumToys_Escopo,metas, e riscos.pdf](docs/BotiumToys_Escopo,metas, e riscos.pdf)
+*   [Lista de Verificação de controles e conformidade.pdf](docs/Lista%20de%20Verifica%C3%A7%C3%A3o%20de%20controles%20e%20conformidade.pdf)
+*   [Categorias de Controle.pdf](docs/Categorias%20de%20Controle.pdf)
+*   [Reporte da Auditoria Botium Toys.pdf](docs/Reporte%20da%20Auditoria%20Botium%20Toys.pdf)
 
 **Resultados e Recomendações Chave:**
 *   Identificação de lacunas críticas em áreas como gerenciamento de acesso (menor privilégio, separação de funções), recuperação de desastres, backups, detecção de intrusão e criptografia de dados sensíveis.
