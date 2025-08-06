@@ -9,10 +9,11 @@ Bem-vindo(a) ao meu portfólio de projetos e atividades em Cibersegurança. Aqui
 *   [Auditoria de Segurança e Conformidade para Botium Toys](auditoria-botium-toys/README.md)
 *   [Incidente de Segurança Cibernética: Análise de Tráfego DNS e ICMP](incidente-dns-icmp/README.md)
 *   [Análise de Tráfego de Rede com Wireshark: Atque DoS SYN Flood](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/wireshark-tcp-http-analysis/README.md)
-*   [Estudo de Caso: Invasão de Site via Força Bruta e Infecção por Malware](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/tree/main/invasao-site-malware)
-*   [Estudo de Caso: Resposta a uma Violação de Dados e Fortalecimento de Segurança](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/violacao-dados-hardening/README.md)
-*   [Estudo de Caso: Atque DDoS à Rede Corporativa de Multimídia](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/ataque-ddos-rede-corporativa/README.md)
+*   [Invasão de Site via Força Bruta e Infecção por Malware](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/tree/main/invasao-site-malware)
+*   [Resposta a uma Violação de Dados e Fortalecimento de Segurança](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/violacao-dados-hardening/README.md)
+*   [Atque DDoS à Rede Corporativa de Multimídia](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/ataque-ddos-rede-corporativa/README.md)
 *   [Permissão de arquivos no Linux](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/permissao-de-arquivos-no-linux/REAMDE.md)
+*   [Aanálise de consultas SQL](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/analise-de-consultas-SQL/README.md)
 
 ---
 
