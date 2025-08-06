@@ -1,4 +1,4 @@
-# Análise de Consultas SQL para Cibersegurança
+# Análise de Consultas SQL
 
 Este repositório contém um projeto de portfólio focado na aplicação prática de consultas SQL para investigação de segurança em um ambiente corporativo simulado. O objetivo é demonstrar a capacidade de utilizar SQL para analisar dados de tentativas de login e informações de funcionários, identificando atividades suspeitas e contribuindo para a segurança do sistema.
 
