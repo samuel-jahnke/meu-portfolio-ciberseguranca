@@ -13,7 +13,7 @@ Bem-vindo(a) ao meu portfólio de projetos e atividades em Cibersegurança. Aqui
 *   [Resposta a uma Violação de Dados e Fortalecimento de Segurança](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/violacao-dados-hardening/README.md)
 *   [Atque DDoS à Rede Corporativa de Multimídia](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/ataque-ddos-rede-corporativa/README.md)
 *   [Permissão de arquivos no Linux](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/permissao-de-arquivos-no-linux/REAMDE.md)
-*   [Aanálise de consultas SQL](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/analise-de-consultas-SQL/README.md)
+*   [Análise de consultas SQL](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/analise-de-consultas-SQL/README.md)
 
 ---
 
