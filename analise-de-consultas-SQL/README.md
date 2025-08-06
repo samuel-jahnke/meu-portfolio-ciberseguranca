@@ -27,7 +27,8 @@ O projeto aborda as seguintes análises, cada uma com sua respectiva consulta SQ
 
 ## Como Visualizar
 
-As capturas de tela das consultas SQL e seus resultados estão incluídas no documento principal do portfólio (`portfolio_sql_ciberseguranca.pdf`). Este README serve como um resumo e introdução ao projeto.
+As capturas de tela das consultas SQL e seus resultados estão incluídas no documento principal do portfólio [Aplicação de filtros a consultas SQL](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/analise-de-consultas-SQL/docs/Aplica%C3%A7%C3%A3o%20de%20filtros%20a%20consultas%20SQL.pdf) e [Formato das Tabelas](https://github.com/samuel-jahnke/meu-portfolio-ciberseguranca/blob/main/analise-de-consultas-SQL/docs/Formatos%20das%20Tabelas.pdf).
+Este README serve como um resumo e introdução ao projeto.
 
 
 
